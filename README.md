@@ -2,6 +2,12 @@
 
 Generic instructions for reducing token usage across an agent system without reducing correctness, safety, or task completion quality.
 
+## Product Context
+
+Context growth is both a cost problem and a reliability problem. This reference architecture treats compression as a product control: preserve decisions, constraints, evidence, and safety boundaries while removing repeated instructions and low-value retrieval.
+
+Maintained by [Jason Agentic](https://x.com/Jason_Agentic).
+
 ## Purpose
 
 Use this when you want an agent to:
