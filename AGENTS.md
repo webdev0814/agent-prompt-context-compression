@@ -4,7 +4,7 @@
 - **Repository**: `webdev0814/agent-prompt-context-compression`
 - **Visibility**: `Public`
 - **Default Branch**: `master`
-- **Last Updated / Pushed**: 2026-09-04
+- **Last Updated / Pushed**: 2026-09-08
 - **Description**: Reusable prompt instructions for reducing token usage across agent systems without sacrificing correctness.
 - **Context from README**: Generic instructions for reducing token usage across an agent system without reducing correctness, safety, or task completion quality. Context growth is both a cost problem and a reliability problem. This reference architecture treats compression as a product control: preserve decisions, constraints...
 - **Topics/Tags**: llm, prompt-engineering, token-compression
@@ -38,6 +38,9 @@
 
 ## 4. Recent Commit Activity (Where We Left Off)
 The most recent commits show the latest development trajectory:
+- `[6c4653b]` (2026-09-08) docs: update agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
+- `[ec26474]` (2026-09-08) docs: update agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
+- `[f912d58]` (2026-09-08) docs: update agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
 - `[4ea2cba]` (2026-09-04) docs: add comprehensive agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
 - `[268d921]` (2026-09-04) docs: add comprehensive agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
 - `[f9636f1]` (2026-09-04) docs: add comprehensive agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
@@ -45,8 +48,6 @@ The most recent commits show the latest development trajectory:
 - `[a13654f]` (2026-09-04) docs: add comprehensive agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
 - `[07d6258]` (2026-09-04) docs: add comprehensive agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
 - `[48fb6ed]` (2026-09-03) Add security reporting and repository hygiene policy
-- `[a328fca]` (2026-09-03) Add AI product portfolio context
-- `[b6d9203]` (2026-06-02) Initial commit
 
 ---
 
