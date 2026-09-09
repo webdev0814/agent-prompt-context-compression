@@ -4,7 +4,7 @@
 - **Repository**: `webdev0814/agent-prompt-context-compression`
 - **Visibility**: `Public`
 - **Default Branch**: `master`
-- **Last Updated / Pushed**: 2026-09-08
+- **Last Updated / Pushed**: 2026-09-09
 - **Description**: Reusable prompt instructions for reducing token usage across agent systems without sacrificing correctness.
 - **Context from README**: Generic instructions for reducing token usage across an agent system without reducing correctness, safety, or task completion quality. Context growth is both a cost problem and a reliability problem. This reference architecture treats compression as a product control: preserve decisions, constraints...
 - **Topics/Tags**: llm, prompt-engineering, token-compression
@@ -38,6 +38,9 @@
 
 ## 4. Recent Commit Activity (Where We Left Off)
 The most recent commits show the latest development trajectory:
+- `[328c842]` (2026-09-09) docs: update agent briefing with multi-computer handoff protocol
+- `[aca2741]` (2026-09-09) docs: update agent briefing with multi-computer handoff protocol
+- `[f8433f6]` (2026-09-09) docs: update agent briefing with multi-computer handoff protocol
 - `[80203a7]` (2026-09-08) docs: update agent briefing with multi-computer handoff protocol
 - `[3c965d7]` (2026-09-08) docs: update agent briefing with multi-computer handoff protocol
 - `[a17b5ab]` (2026-09-08) docs: update agent briefing with multi-computer handoff protocol
@@ -45,9 +48,6 @@ The most recent commits show the latest development trajectory:
 - `[80ac00a]` (2026-09-08) docs: update agent briefing with multi-computer handoff protocol
 - `[1015760]` (2026-09-08) docs: update agent briefing with multi-computer handoff protocol
 - `[ef0250b]` (2026-09-08) docs: update agent briefing with multi-computer handoff protocol
-- `[e90b02b]` (2026-09-08) docs: update agent briefing with multi-computer handoff protocol
-- `[82ed1e3]` (2026-09-08) docs: update agent briefing with multi-computer handoff protocol
-- `[7c379c5]` (2026-09-08) docs: update agent briefing with multi-computer handoff protocol
 
 ---
 
